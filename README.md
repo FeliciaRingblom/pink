@@ -43,15 +43,6 @@ Common tags that are good to begin with:
 - Link `<link>`
 - Body `<body>`
 
-### Type of content
-- Header `<header>`
-- Footer `<footer>`
-- Division/Section `<div>` or `<section>`
-- Main `<main>`
-- Aside `<aside>`
-
-These are just to tell the browser about your content. It won't affect the page layout in any way.
-
 ### Content
 - Division/sections `<div>`
 - Hyperlink `<a>`
@@ -65,6 +56,8 @@ These are just to tell the browser about your content. It won't affect the page 
 - Button `<button>`
 - Input `<input>` (many different type such as text, checkbox, file, number etc)
 - Select options `<select>` and `<option>`
+
+The tags listed above are enough to build a simple website, but in case you're curious about the rest you can find the reference page of all HTML tags [here](https://www.w3schools.com/tags/ref_byfunc.asp).
 
 # CSS
 

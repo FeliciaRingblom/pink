@@ -7,6 +7,9 @@
 - [Resources](#resources)
     - [Images](#images)
     - [Color Picker](#color-picker)
+- [Test what you've learned!](#test-what-youve-learned)
+
+
 
 
 
@@ -78,4 +81,6 @@ You can also find a list of all [Named Colors here](https://www.w3schools.com/co
 
 If you need help to pick colors that looks good together, you'll find a [color palette picker here](https://www.w3schools.com/colors/colors_palettes.asp)
 
-
+# Test what you've learned
+- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
+- [CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS§) 

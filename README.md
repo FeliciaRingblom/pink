@@ -2,11 +2,11 @@
 - [HTML](#HTML)
     - [Starting Template](#starting-template)
     - [Common tags](#common-html-tags)
--[CSS](#CSS)
--[JavaScript](#JavaScript)
--[Resources](#Resources)
-    -[Images](#images)
-    -[Color Picker](#color-picker)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [Resources](#resources)
+    - [Images](#images)
+    - [Color Picker](#color-picker)
 
 
 

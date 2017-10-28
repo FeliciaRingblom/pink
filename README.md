@@ -1,6 +1,13 @@
 # Pink Programming Web Development
 - [HTML](#HTML)
-- [Common tags](#common-html-tags)
+    - [Starting Template](#starting-template)
+    - [Common tags](#common-html-tags)
+-[CSS](#CSS)
+-[JavaScript](#JavaScript)
+-[Resources](#Resources)
+    -[Images](#images)
+    -[Color Picker](#color-picker)
+
 
 
 # HTML
@@ -55,5 +62,20 @@ These are just to tell the browser about your content. It won't affect the page 
 - Button `<button>`
 - Input `<input>` (many different type such as text, checkbox, file, number etc)
 - Select options `<select>` and `<option>`
+
+# CSS
+
+# JavaScript
+
+# Resources
+## Images
+Here are some pages where you can find large images to use as backgrounds or in slide shows on your website.
+[Pexels.com](https://www.pexels.com), [Stocksnap.io](https://stocksnap.io), [Unsplash.com](https://unsplash.com)
+
+## Color Picker
+You can use the [Color picker](https://www.w3schools.com/colors/colors_picker.asp) to get the correct hex code for your color
+You can also find a list of all [Named Colors here](https://www.w3schools.com/colors/colors_names.asp)
+
+If you need help to pick colors that looks good together, you'll find a [color palette picker here](https://www.w3schools.com/colors/colors_palettes.asp)
 
 

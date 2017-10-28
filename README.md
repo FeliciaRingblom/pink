@@ -2,15 +2,17 @@
 - [HTML](#HTML)
     - [Starting Template](#starting-template)
     - [Common tags](#common-html-tags)
+    - [HTML Exercises](#html-exercises)
 - [CSS](#css)
+    - [Selectors](#selectors)
+    - [Common Proprties](#common-properties)
+    - [CSS Exercises](#css-exercises)
 - [JavaScript](#javascript)
 - [Resources](#resources)
     - [Images](#images)
     - [Color Picker](#color-picker)
+    - [How To](#how-to)
 - [Test what you've learned!](#test-what-youve-learned)
-
-
-
 
 
 # HTML
@@ -59,7 +61,48 @@ Common tags that are good to begin with:
 
 The tags listed above are enough to build a simple website, but in case you're curious about the rest you can find the reference page of all HTML tags [here](https://www.w3schools.com/tags/ref_byfunc.asp).
 
+## HTML Exercises
+[Here](https://www.w3schools.com/html/exercise.asp?filename=exercise_attributes1) you can find some exercises if you want to practice HTML by coding short examples.
+
 # CSS
+
+## Selectors
+Selectors are patterns used to select the element(s) you want to style.
+Here are the most commonly used selectors:
+- `element`
+- `.class`
+- `#id`
+- `element, element`
+- `element element`
+- `:hover`
+
+[Here](https://www.w3schools.com/cssref/css_selectors.asp) you can find the detailed description of all CSS selectors.
+
+## Common Properties
+
+### Size
+- `width`
+- `height`
+- `padding`
+- `margin`
+
+
+### Decorations
+- `border`
+- `background-image`
+- `background-color`
+
+
+### Fonts
+- `font-family`
+- `font-size`
+- `color`
+- `text-align (right, left or center)`
+
+[Here](https://www.w3schools.com/CSSref/css3_pr_align-content.asp) you can find the detailed description of all CSS properties.
+
+## CSS Exercises
+[Here](https://www.w3schools.com/css/exercise.asp) you can find some exercises if you want to practice CSS by coding short examples.
 
 # JavaScript
 
@@ -73,6 +116,9 @@ You can use the [Color picker](https://www.w3schools.com/colors/colors_picker.as
 You can also find a list of all [Named Colors here](https://www.w3schools.com/colors/colors_names.asp)
 
 If you need help to pick colors that looks good together, you'll find a [color palette picker here](https://www.w3schools.com/colors/colors_palettes.asp)
+
+## How To
+[Here](https://www.w3schools.com/howto/default.asp) you can find examples on how to build a slideshow, a dropdown menu and much more.
 
 # Test what you've learned
 - [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
